@@ -1,4 +1,4 @@
-# Hislerim: SwiftUI & SwiftData Duygu Günlüğü
+# SwiftUI & SwiftData / Duygu Günlüğü
 
 ![Swift](https://img.shields.io/badge/Swift-5.10-orange?style=for-the-badge)
 ![iOS](https://img.shields.io/badge/iOS-17.0%2B-blue?style=for-the-badge)
@@ -39,11 +39,9 @@ Bu proje, **SwiftData**'nın gücünü, **Swift Charts** ile modern veri görsel
 
 ## 📱 Ekran Görüntüleri
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-08 at 14 46 23" src="https://github.com/user-attachments/assets/beb91de0-c74b-438f-88e4-d6faead7d978" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-08 at 14 46 30" src="https://github.com/user-attachments/assets/eb54e8e6-41e1-48c5-9ff8-72a9d00c2e5f" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-08 at 14 48 07" src="https://github.com/user-attachments/assets/217ac76a-5f87-40aa-a084-a661163f8392" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-08 at 14 48 11" src="https://github.com/user-attachments/assets/bcdf3bff-418d-4221-a562-e4f0567a0eac" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-08 at 14 48 21" src="https://github.com/user-attachments/assets/b9eda16e-3f13-4076-8ef5-1b3c575b2bb8" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-08 at 14 48 29" src="https://github.com/user-attachments/assets/b80239c6-690e-452d-8364-16a893f7682f" />
-
-
+<img width="250" height="550" src="https://github.com/user-attachments/assets/beb91de0-c74b-438f-88e4-d6faead7d978" />
+<img width="250" height="550" src="https://github.com/user-attachments/assets/eb54e8e6-41e1-48c5-9ff8-72a9d00c2e5f" />
+<img width="250" height="550" src="https://github.com/user-attachments/assets/217ac76a-5f87-40aa-a084-a661163f8392" />
+<img width="250" height="550" src="https://github.com/user-attachments/assets/bcdf3bff-418d-4221-a562-e4f0567a0eac" />
+<img width="250" height="550" src="https://github.com/user-attachments/assets/b9eda16e-3f13-4076-8ef5-1b3c575b2bb8" />
+<img width="250" height="550" src="https://github.com/user-attachments/assets/b80239c6-690e-452d-8364-16a893f7682f" />
